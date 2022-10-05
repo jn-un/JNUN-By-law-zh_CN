@@ -9,10 +9,21 @@
 
 本章程涵盖了联合现在理念、组织性质、社区治理、共识、发展路线、目标、组织结构、基本定义等方面的描述，并将在联合现在及附属生态中进行运用。
 
-文档
+目录
 -------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :caption: Catalogue
+   
+   introduction
+   member/index
+   functional-organization/index
+   proposal/index
+   
+.. toctree::
+   :caption: Link
+   :hidden:
 
-   Introduction
+   Openness Community <https://>
+   Nowadays - Unite Nowaday <https://>
