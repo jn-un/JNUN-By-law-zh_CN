@@ -16,7 +16,7 @@
    :maxdepth: 3
    :caption: Catalogue
    
-   introduction
+   declaration
    member/index
    functional-organization/index
    proposal/index
